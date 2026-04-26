@@ -1,5 +1,14 @@
 # Curso de Redes de Computadores
 
+<img width="1918" height="1042" alt="Image" src="https://github.com/user-attachments/assets/aea140b4-a6eb-43d1-b28b-c079b6860d3e" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/10f15242-2faa-4bc8-bfee-8e8db0327028" />
+<img width="1919" height="1073" alt="Image" src="https://github.com/user-attachments/assets/8772a5bd-3659-4e14-bb84-5d5951180e59" />
+<img width="1919" height="1075" alt="Image" src="https://github.com/user-attachments/assets/9ef3f643-1583-4c1d-8fed-e33af09ddac4" />
+<img width="1913" height="1032" alt="Image" src="https://github.com/user-attachments/assets/66004d4a-c9e3-4ba2-a663-552f5cb01faa" />
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/9fb69e23-597a-4a07-b13a-0b6b2465c6f6" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4632f97d-e966-4c82-a4cd-fcea17fd1089" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e8f51731-800c-40b6-b7bf-1fcd5400fd8a" />
+
 ## 📖 Descrição
 
 Este repositório contém meus estudos e práticas sobre **Redes de Computadores**, abordando desde conceitos fundamentais até simulações e configurações práticas de rede.
